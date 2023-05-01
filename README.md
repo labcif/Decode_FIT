@@ -1,6 +1,6 @@
 # Decode_FIT
 
-Repository for script to decode Strava FIT files to coordinates and store them in a file and generate a map with the coordinates
+Repository for script to decode FIT files to coordinates and store them in a file and generate a map with the coordinates
 
 ## Requirements
  - Python 3
@@ -26,7 +26,7 @@ python3 decode.py -f <file> -t <type>
 ```
 
 ## Important
-This script was done to decode the FIT files from the fitness application Strava, we cannot say for certain how it will handle other applications.
+This script was done to decode the FIT files from the fitness application Strava, however we tested it with FIT files of other application such as Garmin and it worked, so we are pretty sure it will work for a wide range of fitness applications that generate FIT files.
 
 ## Output
 
