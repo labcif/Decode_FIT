@@ -156,7 +156,7 @@ cython_debug/
 *.db
 *.xlsx
 *.html
-*.txt
+general_information.txt
 *.idea
 
 # PyCharm
