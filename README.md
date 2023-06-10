@@ -4,7 +4,7 @@ Repository for script to decode FIT files to coordinates and store them in a fil
 
 ## Requirements
  - Python 3
- - Python libraries: fitdecode, folium, argparse
+ - Python libraries: fitdecode, folium, argparse, xlsxwriter, geopy
 
 ## What is FIT
 
@@ -19,6 +19,7 @@ Overall, the FIT format has become a popular standard for fitness data interchan
 ## Parameters
     - f, --file: FIT file
     - t, --type: Type of output file. Options: html, kml
+    - e, --excel: Generate an excel file with the data (requires Internet connection)
 ## Usage
 
 ```bash
