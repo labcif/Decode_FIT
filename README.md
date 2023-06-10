@@ -1,4 +1,4 @@
-# Decode_FIT
+# FIT2GPS
 
 Repository for script to decode FIT files to coordinates and store them in a file and generate a map with the coordinates
 
